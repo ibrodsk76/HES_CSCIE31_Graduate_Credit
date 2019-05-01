@@ -7,4 +7,15 @@ This topic can cause a lot of confusion. Even when I thought I understood the di
 
 For this assignment, I came up with the practice set that would help the students to learn and better understand the asynchronous calls and various methods of managing them.
 
+The following files are available in git repository:
+Files provided to students:
+Assigment.docx - assigment description
+wrong.js - example of non-working code
+right.js - example of working code
+
+Solution files:
+solution-callback.js - working code using callbacks
+solution-promise.js - working code using promises
+solution-wait.js - working code using await
+
 
